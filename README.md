@@ -116,3 +116,5 @@ gdb --args ./bin/norm_vector data/input_small.dat data/out.dat 1
 depende de la version de GDB instalada: pruebe `info registers ymm0`,
 `print $ymm0.v8_float`, o `p/x $ymm0` segun lo que este disponible en
 su laboratorio.)
+# p1-arqui-juaa
+Project 1 of Arquitecture of computers
