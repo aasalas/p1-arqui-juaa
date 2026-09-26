@@ -72,6 +72,7 @@ Cada corrida tambien escribe `data/output_scalar.dat.stats.txt` (o
 `_vector.dat.stats.txt`) con un resumen en texto plano de los
 estadisticos y el tiempo del kernel.
 
+
 ## Verificar correctud
 
 ```bash
